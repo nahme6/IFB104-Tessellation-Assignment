@@ -1,5 +1,5 @@
 # IFB104-Tessellation-Assignment
-Given a set of randomised array locations, draw a specific set of tiles at those grid locations. /n
+Given a set of randomised array locations, draw a specific set of tiles at those grid locations.
 <a href="https://github.com/nahme6/IFB104-Tessellation-Assignment/blob/main/Assignment1a-Tessellation(2).pdf"><p>Read Assignment Spec for more details</p></a>
 
 ## Assignment Summary
